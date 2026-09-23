@@ -1,3 +1,4 @@
 streamlit==1.38.0
 crewai==0.83.0
 crewai>=0.80,<1.0
+setuptools<82
